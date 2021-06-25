@@ -1,7 +1,7 @@
-#  Hello to you all beautiful people 👋 I am Vivek Kanna Jayapraksh.
-## A Chemical engineer turned Data scientist.
-## Please connect with me and request you to spare some time to look at my repositories.
-## Thank you!!
+#  "Hello to you all beautiful people 👋 I am Vivek Kanna Jayapraksh"
+## "A Chemical engineer turned Data scientist"
+## "Please connect with me and request you to spare some time to look at my repositories"
+## "Thank you!!"
 
 <!--
 **vivekkanna26/vivekkanna26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
