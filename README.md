@@ -50,20 +50,21 @@ Here are some ideas to get you started:
  ➤Statistical analysis: Inferential analysis, EDA, Hypothesis, ANOVA, t-Test, outlier detection, Interquartile range, Sampling and Boxplot
  ➤Object oriented programming language (OOPS)
 
-![Screenshot 2021-06-26 at 00 02 59](https://user-images.githubusercontent.com/75105149/123474784-1f712500-d618-11eb-93d8-fc05fa2c55a9.jpg)
-![Screenshot 2021-06-26 at 00 03 35](https://user-images.githubusercontent.com/75105149/123474786-213ae880-d618-11eb-9502-e15c424d85ab.jpg)
-![Screenshot 2021-06-26 at 00 05 39](https://user-images.githubusercontent.com/75105149/123474787-21d37f00-d618-11eb-8d2e-8874fce927c7.jpg)
-![Screenshot 2021-06-26 at 00 06 15](https://user-images.githubusercontent.com/75105149/123474790-21d37f00-d618-11eb-88f6-eeeab814f046.jpg)
-![Screenshot 2021-06-26 at 00 11 09](https://user-images.githubusercontent.com/75105149/123474793-226c1580-d618-11eb-93a2-699ba475e188.jpg)
-![Screenshot 2021-06-26 at 00 12 18](https://user-images.githubusercontent.com/75105149/123474794-226c1580-d618-11eb-95c0-aa3082ffa45a.jpg)
-![Screenshot 2021-06-26 at 00 14 01](https://user-images.githubusercontent.com/75105149/123474795-2304ac00-d618-11eb-815b-c216237b45de.jpg)
-![Screenshot 2021-06-26 at 00 14 29](https://user-images.githubusercontent.com/75105149/123474797-239d4280-d618-11eb-8762-e46f657ebec1.jpg)
-![Screenshot 2021-06-26 at 00 14 49](https://user-images.githubusercontent.com/75105149/123474798-239d4280-d618-11eb-84b9-446c6e35c9a6.jpg)
-![Screenshot 2021-06-26 at 00 15 11](https://user-images.githubusercontent.com/75105149/123474799-2435d900-d618-11eb-9e3b-00bd4515caf7.jpg)
-![Screenshot 2021-06-26 at 00 44 54](https://user-images.githubusercontent.com/75105149/123474801-24ce6f80-d618-11eb-926d-ddd892e9757b.jpg)
-![Screenshot 2021-06-26 at 00 45 04](https://user-images.githubusercontent.com/75105149/123474802-24ce6f80-d618-11eb-9740-3ad6a3ba9fae.jpg)
-![Screenshot 2021-06-26 at 00 45 19](https://user-images.githubusercontent.com/75105149/123474803-25670600-d618-11eb-8a65-1ed1ee95a0a0.jpg)
-![Screenshot 2021-06-26 at 00 45 27](https://user-images.githubusercontent.com/75105149/123474804-25670600-d618-11eb-813f-607126bc2d3a.jpg)
+![Screenshot 2021-06-26 at 00 02 59](https://user-images.githubusercontent.com/75105149/123475069-84c51600-d618-11eb-8970-01734990b77a.jpg)
+![Screenshot 2021-06-26 at 00 03 35](https://user-images.githubusercontent.com/75105149/123475075-868ed980-d618-11eb-8cda-0822e5c5f6b3.jpg)
+![Screenshot 2021-06-26 at 00 05 39](https://user-images.githubusercontent.com/75105149/123475076-868ed980-d618-11eb-8ba9-a3bdee7afaaf.jpg)
+![Screenshot 2021-06-26 at 00 06 15](https://user-images.githubusercontent.com/75105149/123475079-87277000-d618-11eb-8c2b-6288fbdd72ed.jpg)
+![Screenshot 2021-06-26 at 00 11 09](https://user-images.githubusercontent.com/75105149/123475081-87277000-d618-11eb-807a-af553c2dddc3.jpg)
+![Screenshot 2021-06-26 at 00 12 18](https://user-images.githubusercontent.com/75105149/123475083-87c00680-d618-11eb-8440-f7ac00b99f8e.jpg)
+![Screenshot 2021-06-26 at 00 14 01](https://user-images.githubusercontent.com/75105149/123475084-88589d00-d618-11eb-80ea-c4f3197720ca.jpg)
+![Screenshot 2021-06-26 at 00 14 29](https://user-images.githubusercontent.com/75105149/123475086-88589d00-d618-11eb-8024-a68bd866addc.jpg)
+![Screenshot 2021-06-26 at 00 14 49](https://user-images.githubusercontent.com/75105149/123475088-88f13380-d618-11eb-9cf5-0b7584ad7757.jpg)
+![Screenshot 2021-06-26 at 00 15 11](https://user-images.githubusercontent.com/75105149/123475089-8989ca00-d618-11eb-963a-d7e4cd340420.jpg)
+![Screenshot 2021-06-26 at 00 44 54](https://user-images.githubusercontent.com/75105149/123475091-8989ca00-d618-11eb-8c56-aebe97ee089f.jpg)
+![Screenshot 2021-06-26 at 00 45 04](https://user-images.githubusercontent.com/75105149/123475093-8a226080-d618-11eb-8cac-8d8287ac94b6.jpg)
+![Screenshot 2021-06-26 at 00 45 19](https://user-images.githubusercontent.com/75105149/123475096-8abaf700-d618-11eb-8f1e-cca7d61970f5.jpg)
+![Screenshot 2021-06-26 at 00 45 27](https://user-images.githubusercontent.com/75105149/123475097-8abaf700-d618-11eb-845b-25b3b59f1a1a.jpg)
+
 
 
 
