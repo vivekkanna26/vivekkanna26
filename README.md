@@ -18,12 +18,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
 ## Aboutme 
 
 ## 🙌 Very passionate and highly motivated Data scientist with experience of integrating and implementing  ML & DL algorithms with leverage techniques to prevent real time problems in any entire business cases and also to solve existing issues across all types of verticals.
 ## Accomplished and professional business engineer with extensive experience in full operations of a manufacturing facility with good technical, analytical, leadership, interpersonal skills and proven ability to re-energize and structure organisations from a total operational point.
 
 
+---
 
 
 ## My Skills
@@ -47,18 +50,21 @@ Here are some ideas to get you started:
  ➤Statistical analysis: Inferential analysis, EDA, Hypothesis, ANOVA, t-Test, outlier detection, Interquartile range, Sampling and Boxplot
  ➤Object oriented programming language (OOPS)
 
-![Screenshot 2021-06-26 at 00 02 59](https://user-images.githubusercontent.com/75105149/123473127-c6a08d00-d615-11eb-87f7-e01f80cf3f8f.jpg)
-![Screenshot 2021-06-26 at 00 03 35](https://user-images.githubusercontent.com/75105149/123473142-c99b7d80-d615-11eb-934b-e52bce08ea60.jpg)
-![Screenshot 2021-06-26 at 00 05 39](https://user-images.githubusercontent.com/75105149/123473145-ca341400-d615-11eb-9fb5-a31a798bd562.jpg)
-![Screenshot 2021-06-26 at 00 06 15](https://user-images.githubusercontent.com/75105149/123473148-caccaa80-d615-11eb-92dc-135357c63aa9.jpg)
-![Screenshot 2021-06-26 at 00 10 55](https://user-images.githubusercontent.com/75105149/123473149-cbfdd780-d615-11eb-8002-081285c588bc.jpg)
-![Screenshot 2021-06-26 at 00 11 09](https://user-images.githubusercontent.com/75105149/123473153-cc966e00-d615-11eb-9d3c-44653947ce0c.jpg)
-![Screenshot 2021-06-26 at 00 11 47](https://user-images.githubusercontent.com/75105149/123473157-cd2f0480-d615-11eb-878e-bebedaae09cb.jpg)
-![Screenshot 2021-06-26 at 00 12 18](https://user-images.githubusercontent.com/75105149/123473158-cdc79b00-d615-11eb-93ff-d30710d4e1f4.jpg)
-![Screenshot 2021-06-26 at 00 14 01](https://user-images.githubusercontent.com/75105149/123473161-ce603180-d615-11eb-848e-9b637e20f444.jpg)
-![Screenshot 2021-06-26 at 00 14 29](https://user-images.githubusercontent.com/75105149/123473163-cef8c800-d615-11eb-932e-d34fc42c3d82.jpg)
-![Screenshot 2021-06-26 at 00 14 49](https://user-images.githubusercontent.com/75105149/123473165-d029f500-d615-11eb-9d3d-7d238d5e11db.jpg)
-![Screenshot 2021-06-26 at 00 15 11](https://user-images.githubusercontent.com/75105149/123473167-d0c28b80-d615-11eb-9424-87130fd387c7.jpg)
+![Screenshot 2021-06-26 at 00 02 59](https://user-images.githubusercontent.com/75105149/123474784-1f712500-d618-11eb-93d8-fc05fa2c55a9.jpg)
+![Screenshot 2021-06-26 at 00 03 35](https://user-images.githubusercontent.com/75105149/123474786-213ae880-d618-11eb-9502-e15c424d85ab.jpg)
+![Screenshot 2021-06-26 at 00 05 39](https://user-images.githubusercontent.com/75105149/123474787-21d37f00-d618-11eb-8d2e-8874fce927c7.jpg)
+![Screenshot 2021-06-26 at 00 06 15](https://user-images.githubusercontent.com/75105149/123474790-21d37f00-d618-11eb-88f6-eeeab814f046.jpg)
+![Screenshot 2021-06-26 at 00 11 09](https://user-images.githubusercontent.com/75105149/123474793-226c1580-d618-11eb-93a2-699ba475e188.jpg)
+![Screenshot 2021-06-26 at 00 12 18](https://user-images.githubusercontent.com/75105149/123474794-226c1580-d618-11eb-95c0-aa3082ffa45a.jpg)
+![Screenshot 2021-06-26 at 00 14 01](https://user-images.githubusercontent.com/75105149/123474795-2304ac00-d618-11eb-815b-c216237b45de.jpg)
+![Screenshot 2021-06-26 at 00 14 29](https://user-images.githubusercontent.com/75105149/123474797-239d4280-d618-11eb-8762-e46f657ebec1.jpg)
+![Screenshot 2021-06-26 at 00 14 49](https://user-images.githubusercontent.com/75105149/123474798-239d4280-d618-11eb-84b9-446c6e35c9a6.jpg)
+![Screenshot 2021-06-26 at 00 15 11](https://user-images.githubusercontent.com/75105149/123474799-2435d900-d618-11eb-9e3b-00bd4515caf7.jpg)
+![Screenshot 2021-06-26 at 00 44 54](https://user-images.githubusercontent.com/75105149/123474801-24ce6f80-d618-11eb-926d-ddd892e9757b.jpg)
+![Screenshot 2021-06-26 at 00 45 04](https://user-images.githubusercontent.com/75105149/123474802-24ce6f80-d618-11eb-9740-3ad6a3ba9fae.jpg)
+![Screenshot 2021-06-26 at 00 45 19](https://user-images.githubusercontent.com/75105149/123474803-25670600-d618-11eb-8a65-1ed1ee95a0a0.jpg)
+![Screenshot 2021-06-26 at 00 45 27](https://user-images.githubusercontent.com/75105149/123474804-25670600-d618-11eb-813f-607126bc2d3a.jpg)
+
 
 
 ## What i do for fun
