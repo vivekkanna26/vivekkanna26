@@ -1,5 +1,5 @@
-### Hello to you all beautiful people 👋 I am Vivek Kanna Jayapraksh.
-### A Chemical engineer turned Data scientist.
+#  Hello to you all beautiful people 👋 I am Vivek Kanna Jayapraksh.
+## A Chemical engineer turned Data scientist.
 ## Please connect with me and request you to spare some time to look at my repositories.
 ## Thank you!!
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 ## My Skills
-# 🧑‍💻Data Analysis, Machine learning and Deep learning in Artificial intelligence. 
+## 🧑‍💻Data Analysis, Machine learning and Deep learning in Artificial intelligence. 
 
  ➤Programming language – Python, R
  ➤Classification algorithms: Logistic regression, K-Nearest Neighbor, SVM, Naive Bayes, Random Forest, Decision tree.
