@@ -1,7 +1,7 @@
 ### Hello to you all beautiful people 👋 I am Vivek Kanna Jayapraksh.
 ### A Chemical engineer turned Data scientist.
-##Please connect with me and also spare some to look at my repositories.
-##Thank you!!
+## Please connect with me and also spare some to look at my repositories.
+## Thank you!!
 
 <!--
 **vivekkanna26/vivekkanna26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Aboutme 
+## Aboutme 
 
 🙌 Very passionate and highly motivated Data scientist with experience of integrating and implementing  ML & DL algorithms with leverage techniques to prevent real time problems in any entire business cases and also to solve existing issues across all types of verticals.
 Accomplished and professional business engineer with extensive experience in full operations of a manufacturing facility with good technical, analytical, leadership, interpersonal skills and proven ability to re-energize and structure organisations from a total operational point.
@@ -26,8 +26,9 @@ Accomplished and professional business engineer with extensive experience in ful
 
 
 
-##My Skills
+## My Skills
 🧑‍💻Data Analysis, Machine learning and Deep learning in Artificial intelligence. 
+
 ➤Programming language – Python, R
 ➤Classification algorithms: Logistic regression, K-Nearest Neighbor, SVM, Naive Bayes, Random Forest, Decision tree.
 ➤Regression algorithms: Linear regression Decision tree, Random forest, SVM.
@@ -47,7 +48,7 @@ Accomplished and professional business engineer with extensive experience in ful
 ➤Object oriented programming language (OOPS)
 
 
-##What i do for fun
+## What i do for fun
 ➤Going for long drives
 ➤Reading on macroeconomics, equities and crypto.
 ➤Metal fabrication, carpentry and building stuff
