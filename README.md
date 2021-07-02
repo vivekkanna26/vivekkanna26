@@ -3,6 +3,9 @@
 ## "Please connect with me and request you to spare some time to look at my repositories"
 ## "Thank you!!"
 
+## Linkedin Profile : https://www.linkedin.com/in/vivek-kanna-jayaprakash/
+
+
 <!--
 **vivekkanna26/vivekkanna26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
