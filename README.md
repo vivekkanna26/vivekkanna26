@@ -72,6 +72,6 @@ Here are some ideas to get you started:
 
 
 ## What i do for fun
-➤Going for long drives
+➤Road trips
 ➤Reading on macroeconomics, equities and crypto.
 ➤Metal fabrication, carpentry and building stuff
