@@ -1,6 +1,6 @@
 #  "Hello to you all beautiful people 👋 I am Vivek Kanna Jayapraksh"
 ## "A Chemical engineer turned Data scientist"
-## "Please connect with me and request you to spare some time to look at my repositories"
+## "Please connect with me and request you to spare some time and look at my repositories"
 ## "Thank you!!"
 
 ## Linkedin Profile : https://www.linkedin.com/in/vivek-kanna-jayaprakash/
