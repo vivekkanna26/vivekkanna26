@@ -5,6 +5,8 @@
 
 ## Linkedin Profile : https://www.linkedin.com/in/vivek-kanna-jayaprakash/
 
+## Twitter : https://twitter.com/V_vek26
+
 
 <!--
 **vivekkanna26/vivekkanna26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
