@@ -5,7 +5,7 @@
 
 ## Linkedin Profile : https://www.linkedin.com/in/vivek-kanna-jayaprakash/
 
-## Twitter : https://twitter.com/V_vek26
+
 
 
 <!--
