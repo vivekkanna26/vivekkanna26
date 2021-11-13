@@ -1,5 +1,5 @@
 #  "Hello to you all beautiful people 👋 I am Vivek Kanna Jayapraksh"
-## "A Chemical engineer turned Data scientist"
+## "A Chemical engineer turned AI engineer"
 ## "Please connect with me and request you to spare some time and look at my repositories"
 ## "Thank you!!"
 
