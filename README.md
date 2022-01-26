@@ -82,11 +82,11 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-rafiq&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekkanna26&theme=radical)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rafiq&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkanna26&layout=compact)
   
-![Profile views](https://gpvc.arturio.dev/mr-rafiq)  
+![Profile views](https://gpvc.arturio.dev/vivekkanna26)  
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
