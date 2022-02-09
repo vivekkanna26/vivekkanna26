@@ -1,29 +1,15 @@
-#  "Hello to you all beautiful people 👋 I am Vivek Kanna Jayapraksh"
+#  "Hello Everyone 👋 I am Vivek Kanna Jayapraksh"
 ## "A Chemical engineer turned AI engineer"
 ## "Please connect with me and request you to spare some time and look at my repositories"
 ## "Thank you!!"
 
 ## Linkedin Profile : https://www.linkedin.com/in/vivek-kanna-jayaprakash/
 
+## 🔭 I’m currently working on high level sentimental analysis 
+## 🌱 I’m currently learning AWS
+## 📫 How to reach me Email : vivekkanna.j@gmail.com | Phone : +44-7512535274 / +91-9042149428
 
 
-
-<!--
-**vivekkanna26/vivekkanna26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
----
 
 ## Aboutme 
 
