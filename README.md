@@ -7,7 +7,7 @@
 
 ## 🔭 I’m currently working on high level sentimental analysis 
 ## 🌱 I’m currently learning AWS
-## 📫 How to reach me Email : vivekkanna.j@gmail.com | Phone : +44-7512535274 / +91-9042149428
+## 📫 How to reach me Email : vivekkanna.j@gmail.com | Phone : +44-7512535274 
 
 
 
