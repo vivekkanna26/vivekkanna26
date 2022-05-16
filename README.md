@@ -1,4 +1,4 @@
-#  "Hello Everyone 👋 I am Vivek Kanna Jayapraksh"
+#  "Hello Everyone 👋 I am Vivek Kanna Jayaprakash"
 ## "A Chemical engineer turned AI engineer"
 ## "Please connect with me and request you to spare some time and look at my repositories"
 ## "Thank you!!"
